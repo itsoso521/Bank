@@ -66,6 +66,7 @@ public class LogAop {
            method=clazz.getMethod(methodName, parameterTypes);
         }
     }
+
     //后置通知
     @After("execution(* com.cx.controller.*.*(..))")
     public void doAfter(JoinPoint jp) throws Exception {
