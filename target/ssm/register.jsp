@@ -72,7 +72,7 @@
 
 
 
-            <a href="all-admin-login.html" class="text-center">我有账号，现在就去登录</a>
+            <a href="login.jsp" class="text-center">我有账号，现在就去登录</a>
         </div>
         <!-- /.form-box -->
     </div>
